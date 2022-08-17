@@ -40,16 +40,16 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 ## Organizers
 This event is financially supported by Criteo, Google, INRIA, and SCAI.
 
-[Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA)
-[Gérard Biau](https://www.lpsm.paris/pageperso/biau/) (Sorbonne Université)
-[Liva Ralaivola](https://pageperso.lif.univ-mrs.fr/~liva.ralaivola/doku.php) (Criteo) 
+[Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) <br>
+[Gérard Biau](https://www.lpsm.paris/pageperso/biau/) (Sorbonne Université)<br>
+[Liva Ralaivola](https://pageperso.lif.univ-mrs.fr/~liva.ralaivola/doku.php) (Criteo) <br>
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Google)
 
-[Linus Bleistein](https://team.inria.fr/heka/team-members/bleistein/)(INRIA)
-[Jules Bonnard](https://www.isir.upmc.fr/personnel/bonnard/)(Sorbonne Université)
-[Adeline Fermanian](https://afermanian.github.io) (MINES Paristech)
-[Pierre Marion](https://pierremarion23.github.io) (Sorbonne Université)
-[Gauthier Tallec](https://www.isir.upmc.fr/personnel/tallec/) (Sorbonne Université)
+[Linus Bleistein](https://team.inria.fr/heka/team-members/bleistein/)(INRIA)<br>
+[Jules Bonnard](https://www.isir.upmc.fr/personnel/bonnard/)(Sorbonne Université)<br>
+[Adeline Fermanian](https://afermanian.github.io) (MINES Paristech)<br>
+[Pierre Marion](https://pierremarion23.github.io) (Sorbonne Université)<br>
+[Gauthier Tallec](https://www.isir.upmc.fr/personnel/tallec/) (Sorbonne Université)<br>
 [Edouard Yvinec](https://www.isir.upmc.fr/personnel/yvinec/) (Sorbonne Université)
 
 ## Contact
