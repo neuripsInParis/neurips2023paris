@@ -9,7 +9,7 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 ## Registration
 
 ## Schedule
-# Day 1 : 23/11/2022
+### Day 1 : 23/11/2022
 
 | **Time** | **Description** |
 | -----| ----------- |
@@ -20,7 +20,7 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 | 16:30 - 18:00 | poster session |
 | 18:00 - 19:00 | social event |
 
-# Day 2 : 24/11/2022
+### Day 2 : 24/11/2022
 
 
 | **Time** | **Description** |
@@ -39,12 +39,12 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 
 ## Organizers
 This event is financially supported by Criteo, Google, INRIA, and SCAI.
-[Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) 
-[Gérard Biau](https://www.lpsm.paris/pageperso/biau/) (Sorbonne Université) 
+
+[Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA)
+[Gérard Biau](https://www.lpsm.paris/pageperso/biau/) (Sorbonne Université)
 [Liva Ralaivola](https://pageperso.lif.univ-mrs.fr/~liva.ralaivola/doku.php) (Criteo) 
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Google)
 
-## 
 [Linus Bleistein](https://team.inria.fr/heka/team-members/bleistein/)(INRIA)
 [Jules Bonnard](https://www.isir.upmc.fr/personnel/bonnard/)(Sorbonne Université)
 [Adeline Fermanian](https://afermanian.github.io) (MINES Paristech)
