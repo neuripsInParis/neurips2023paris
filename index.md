@@ -4,7 +4,7 @@ The Conference on Neural Information Processing Systems (abbreviated as NeurIPS)
 
 This event will take place at [Sorbonne Center on Artificial Intelligence](https://scai.sorbonne-universite.fr) (SCAI) on the Jussieu campus (Paris 5ème).
 
-![map](/docs/assets/plan_neurips2022.jpg)
+![map](/docs/assets/plan_neurips2022v2.jpg)
 
 ## Registration
 
