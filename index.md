@@ -4,7 +4,7 @@ The Conference on Neural Information Processing Systems (abbreviated as NeurIPS)
 
 This event will take place at [Sorbonne Center on Artificial Intelligence](https://scai.sorbonne-universite.fr) (SCAI) on the Jussieu campus (Paris 5ème).
 
-![map](/docs/assets/map.png)
+![map](/docs/assets/plan_neurips2022.jpg)
 
 ## Registration
 
@@ -45,8 +45,8 @@ This event is financially supported by Criteo, Google, INRIA, and SCAI.
 [Liva Ralaivola](https://pageperso.lif.univ-mrs.fr/~liva.ralaivola/doku.php) (Criteo) <br>
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Google)
 
-[Linus Bleistein](https://team.inria.fr/heka/team-members/bleistein/)(INRIA)<br>
-[Jules Bonnard](https://www.isir.upmc.fr/personnel/bonnard/)(Sorbonne Université)<br>
+[Linus Bleistein](https://team.inria.fr/heka/team-members/bleistein/) (INRIA)<br>
+[Jules Bonnard](https://www.isir.upmc.fr/personnel/bonnard/) (Sorbonne Université)<br>
 [Adeline Fermanian](https://afermanian.github.io) (MINES Paristech)<br>
 [Pierre Marion](https://pierremarion23.github.io) (Sorbonne Université)<br>
 [Gauthier Tallec](https://www.isir.upmc.fr/personnel/tallec/) (Sorbonne Université)<br>
