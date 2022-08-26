@@ -8,7 +8,9 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 
 ## Registration
 
-## Schedule
+More information to come.
+
+## Tentative schedule
 ### Day 1 : 23/11/2022
 
 | **Time** | **Description** |
@@ -33,9 +35,11 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 | 14:00 - 15:30 | poster session |
 | 15:30 - 16:30 | mentoring|
 
+<!---
 ## Covid regulations
 
 **In order to access the conference, people need to comply with the regulation of Sorbonne Université and be equipped with a “pass sanitaire”.** You therefore need to be able to present a vaccination certificate or up to date negative test certificate or proof of having recovered from Covid. More information on this [here](https://www.gouvernement.fr/info-coronavirus).
+-->
 
 ## Organizers
 This event is financially supported by Criteo, Google, INRIA, and SCAI.
@@ -47,7 +51,6 @@ This event is financially supported by Criteo, Google, INRIA, and SCAI.
 
 [Linus Bleistein](https://team.inria.fr/heka/team-members/bleistein/) (INRIA)<br>
 [Jules Bonnard](https://www.isir.upmc.fr/personnel/bonnard/) (Sorbonne Université)<br>
-[Adeline Fermanian](https://afermanian.github.io) (MINES Paristech)<br>
 [Pierre Marion](https://pierremarion23.github.io) (Sorbonne Université)<br>
 [Gauthier Tallec](https://www.isir.upmc.fr/personnel/tallec/) (Sorbonne Université)<br>
 [Edouard Yvinec](https://www.isir.upmc.fr/personnel/yvinec/) (Sorbonne Université)

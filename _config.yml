@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: NeurIPS@Paris 2022
+description: ''
 github:
   is_user_page: false
+  is_project_page: false
 logo: /docs/assets/photo_paris.jpg
