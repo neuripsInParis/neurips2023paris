@@ -8,7 +8,9 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 
 ## Registration
 
-Registration is free but mandatory before October 21st. Warning: attendance is not guaranteed upon registration. Depending on the number of registered participants, we may have to implement a selection process. In this case, the selection process would be similar to the one of last year (authors of NeurIPS papers have the priority, then the remaining capacity is allocated through a lottery biased to favor the participation of PhD students and postdoc researchers). Confirmation emails for your participation will be sent in October after the end of the registration period. 
+**Registration is free but mandatory before October 21st**. 
+
+Warning: attendance is not guaranteed upon registration. Depending on the number of registered participants, we may have to implement a selection process. In this case, the selection process would be similar to the one of last year (authors of 2022 NeurIPS papers have the priority, then the remaining capacity is allocated through a lottery biased to favor the participation of PhD students and postdoc researchers). Confirmation emails for your participation will be sent in October after the end of the registration period. 
 
 To register: https://forms.gle/H5ZYNSNLXU1gXCQb9
 
