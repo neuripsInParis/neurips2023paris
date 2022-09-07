@@ -8,7 +8,7 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 
 ## Registration
 
-More information to come.
+Registration is free but mandatory. To register: https://forms.gle/H5ZYNSNLXU1gXCQb9
 
 ## Tentative schedule
 ### Day 1 : 23/11/2022
