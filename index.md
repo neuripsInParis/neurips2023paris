@@ -10,7 +10,7 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 
 **Registration is free but mandatory before October 21st**. 
 
-Warning: attendance is not guaranteed upon registration. Depending on the number of registered participants, we may have to implement a selection process. In this case, the selection process would be similar to the one of last year (authors of 2022 NeurIPS papers have the priority, then the remaining capacity is allocated through a lottery biased to favor the participation of PhD students and postdoc researchers). Confirmation emails for your participation will be sent in October after the end of the registration period. 
+Warning: attendance is not guaranteed upon registration. Depending on the number of registered participants, we may have to implement a selection process. Namely, authors of 2022 NeurIPS papers have the priority, then the remaining capacity is allocated through a lottery biased to favour the participation of PhD students and postdoc researchers. Confirmation emails for your participation will be sent in October after the end of the registration period. 
 
 To register: https://forms.gle/H5ZYNSNLXU1gXCQb9
 
@@ -46,12 +46,12 @@ To register: https://forms.gle/H5ZYNSNLXU1gXCQb9
 -->
 
 ## Organizers
-This event is financially supported by Criteo, Google, INRIA, and SCAI.
+This event is financially supported by Criteo, INRIA, and SCAI.
 
 [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) <br>
 [Gérard Biau](https://www.lpsm.paris/pageperso/biau/) (Sorbonne Université)<br>
 [Liva Ralaivola](https://pageperso.lif.univ-mrs.fr/~liva.ralaivola/doku.php) (Criteo) <br>
-[Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Google)
+[Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Owkin)
 
 [Linus Bleistein](https://team.inria.fr/heka/team-members/bleistein/) (INRIA)<br>
 [Jules Bonnard](https://www.isir.upmc.fr/personnel/bonnard/) (Sorbonne Université)<br>
