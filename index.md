@@ -19,25 +19,26 @@ To register: https://forms.gle/H5ZYNSNLXU1gXCQb9
 
 | **Time** | **Description** |
 | -----| ----------- |
-| 13:00 - 13:30 | welcome |
-| 13:30 - 15:00 | presentations |
-| 15:00 - 15:30 | coffee break |
-| 15:30 - 16:30 | presentations |
-| 16:30 - 18:00 | poster session |
-| 18:00 - 19:00 | social event |
+| 13:00 - 13:30 | Welcome |
+| 13:30 - 14:50 | Presentations |
+| 14:50 - 15:05 | Coffee Break |
+| 15:05 - 16:25 | Presentations |
+| 16:25 - 16:40 | Coffee Break |
+| 16:00 - 18:00 | Presentations |
+| 18:00 - 19:00 | Cocktail at SCAI |
 
 ### Day 2 : 24/11/2022
 
 
 | **Time** | **Description** |
 | -----| ----------- |
-| 09:00 - 09:30 | welcome |
-| 09:30 - 11:00 | presentations |
-| 11:00 - 11:30 | coffee break |
-| 11:30 - 12:15 | presentations |
-| 12:15 - 14:00 | lunch (not provided) |
-| 14:00 - 15:30 | poster session |
-| 15:30 - 16:30 | mentoring|
+| 09:00 - 09:30 | Welcome |
+| 09:30 - 10:30 | Presentations |
+| 10:30 - 11:00 | Coffee break |
+| 11:00 - 12:00 | Presentations |
+| 12:00 - 14:00 | Lunch at SCAI |
+| 14:00 - 15:30 | Poster Session |
+| 15:30 - 16:30 | Mentoring|
 
 <!---
 ## Covid regulations
