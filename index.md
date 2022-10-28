@@ -2,10 +2,14 @@
 
 ## Venue
 
-This event will take place at [Sorbonne Center on Artificial Intelligence](https://scai.sorbonne-universite.fr) (SCAI) on the Jussieu campus (Paris 5ème).
+This event will take place in two locations: 
+<ul>
+	<li> Sorbonne Université, Amphithéâtre Richelieu (1 rue Victor Cousin Paris 5ème - RER Luxembourg ou Métro Ligne 10: Cluny la Sorbonne) for Wednesday afternoon </li>
+	<li> [Sorbonne Center on Artificial Intelligence](https://scai.sorbonne-universite.fr) (SCAI) and Amphithéâtre 25 (4 Place Jussieu Paris 5ème - Metro Ligne 10: Jussieu) for Wednesday cocktail and Thursday respectively </li>
+</ul>
 
 ![map](/docs/assets/plan_neurips2022v2.jpg)
-![map](/docs/assets/sorbonne.jpg)
+![map](/docs/assets/sorbonne.png)
 ## Registration
 
 **Registration is now closed. Authors that have accepted papers at NeurIPS2022 but forgot to register may contact the organizers**.
