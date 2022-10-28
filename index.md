@@ -8,11 +8,10 @@ This event will take place in two locations:
 	<li> <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> and Amphithéâtre 25 (4 Place Jussieu Paris 5ème - Metro Ligne 10: Jussieu) for Wednesday cocktail and Thursday respectively (See <a href="docs/assets/sorbonne.png">Map</a>)</li>
 </ul>
 
-
 <!---
 ![map](/docs/assets/plan_neurips2022v2.jpg)
 ![map](/docs/assets/sorbonne.png)
----!>
+--->
 
 ## Registration
 
