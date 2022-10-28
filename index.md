@@ -47,7 +47,6 @@ To register: https://forms.gle/H5ZYNSNLXU1gXCQb9
 -->
 
 ## Organizers
-This event is financially supported by Criteo, INRIA, and SCAI.
 
 [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) <br>
 [Gérard Biau](https://www.lpsm.paris/pageperso/biau/) (Sorbonne Université)<br>
@@ -59,6 +58,8 @@ This event is financially supported by Criteo, INRIA, and SCAI.
 [Pierre Marion](https://pierremarion23.github.io) (Sorbonne Université)<br>
 [Gauthier Tallec](https://www.isir.upmc.fr/personnel/tallec/) (Sorbonne Université)<br>
 [Edouard Yvinec](https://www.isir.upmc.fr/personnel/yvinec/) (Sorbonne Université)
+
+Sponsors: Apple, Criteo, Google, Owkin
 
 ## Contact
 
