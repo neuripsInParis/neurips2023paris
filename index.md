@@ -5,7 +5,7 @@
 This event will take place at [Sorbonne Center on Artificial Intelligence](https://scai.sorbonne-universite.fr) (SCAI) on the Jussieu campus (Paris 5ème).
 
 ![map](/docs/assets/plan_neurips2022v2.jpg)
-
+![map](/docs/assets/sorbonne.jpg)
 ## Registration
 
 **Registration is now closed. Authors that have accepted papers at NeurIPS2022 but forgot to register may contact the organizers**.
