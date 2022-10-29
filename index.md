@@ -27,7 +27,7 @@ This event will take place in two locations:
 | 14:50 - 15:05 | Coffee Break |
 | 15:05 - 16:25 | Presentations |
 | 16:25 - 16:40 | Coffee Break |
-| 16:00 - 18:00 | Presentations |
+| 16:40 - 18:00 | Poster Session |
 | 18:00 - 19:00 | Cocktail at SCAI |
 
 ### Day 2 : 24/11/2022
