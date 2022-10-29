@@ -62,7 +62,7 @@ This event will take place in two locations:
 [Gauthier Tallec](https://www.isir.upmc.fr/personnel/tallec/) (Sorbonne Université)<br>
 [Edouard Yvinec](https://www.isir.upmc.fr/personnel/yvinec/) (Sorbonne Université)
 
-Sponsors: Apple, Criteo, Google, Owkin
+Sponsors: Criteo, Google, Owkin
 
 ## Contact
 
