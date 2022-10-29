@@ -5,7 +5,7 @@
 This event will take place in two locations: 
 <ul>
 	<li>Amphithéâtre 25 and <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> at Jussieu Campus (4 Place Jussieu Paris 5ème - Metro 10: Jussieu <a href="docs/assets/sorbonne.png"> Map</a>) for Wednesday</li>
-	<li> Sorbonne Université, Amphithéâtre Richelieu (1 rue Victor Cousin Paris 5ème - RER Luxembourg or Metro 10: Cluny la Sorbonne <a href="docs/assets/plan_neurips2022v2.jpg">Map</a>) for Thursday (see )</li>
+	<li> Sorbonne Université, Amphithéâtre Richelieu (1 rue Victor Cousin Paris 5ème - RER Luxembourg or Metro 10: Cluny la Sorbonne <a href="docs/assets/plan_neurips2022v2.jpg">Map</a>) for Thursday </li>
 	<li> 
 </ul>
 
