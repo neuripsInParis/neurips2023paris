@@ -28,7 +28,7 @@ This event will take place in two locations:
 | 14:50 - 15:05 | Coffee Break |
 | 15:05 - 16:25 | Presentations |
 | 16:25 - 16:40 | Coffee Break |
-| 16:00 - 18:00 | Presentations |
+| 16:40 - 18:00 | Poster Session |
 | 18:00 - 19:00 | Cocktail at SCAI |
 
 ### Day 2 : 24/11/2022
@@ -63,7 +63,7 @@ This event will take place in two locations:
 [Gauthier Tallec](https://www.isir.upmc.fr/personnel/tallec/) (Sorbonne Université)<br>
 [Edouard Yvinec](https://www.isir.upmc.fr/personnel/yvinec/) (Sorbonne Université)
 
-Sponsors: Apple, Criteo, Google, Owkin
+Sponsors: Criteo, Google, Owkin
 
 ## Contact
 
