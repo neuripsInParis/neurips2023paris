@@ -4,8 +4,8 @@
 
 This event will take place in two locations: 
 <ul>
-	<li>Amphithéâtre 25 and <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> at Jussieu Campus (4 Place Jussieu Paris 5ème - Metro 10: Jussieu <a href="docs/assets/plan_neurips2022v2.jpg"> Map</a>) for Wednesday</li>
-	<li> Sorbonne Université, Amphithéâtre Richelieu (1 rue Victor Cousin Paris 5ème - RER Luxembourg or Metro 10: Cluny la Sorbonne <a href="docs/assets/sorbonne.png">Map</a>) for Thursday morning, and <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> at Jussieu Campus for Thursday afternoon </li>
+	<li> Campus Jussieu (4 Place Jussieu Paris 5ème - Metro 10: Jussieu <a href="docs/assets/plan_neurips2022v2.jpg"> Map</a>) in Amphithéâtre 25 and <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> on Wednesday and Thursday afternoon </li>
+	<li> Campus Sorbonne (1 rue Victor Cousin Paris 5ème - RER Luxembourg or Metro 10: Cluny la Sorbonne <a href="docs/assets/sorbonne.png">Map</a>) in Amphithéâtre Richelieu on Thursday morning </li>
 </ul>
 
 <!---
@@ -20,28 +20,28 @@ This event will take place in two locations:
 ## Schedule
 ### Day 1 : 23/11/2022
 
-| **Time** | **Description** |
+| **Time** | **Place** | **Description** |
 | -----| ----------- |
-| 13:00 - 13:30 | Welcome |
-| 13:30 - 14:50 | Presentations |
-| 14:50 - 15:05 | Coffee Break |
-| 15:05 - 16:25 | Presentations |
-| 16:25 - 16:40 | Coffee Break |
-| 16:40 - 18:00 | Poster Session |
-| 18:00 - 19:00 | Cocktail at SCAI |
+| 13:00 - 13:30 | Amphi 25 (Jussieu) |  Welcome |
+| 13:30 - 14:50 | Amphi 25 (Jussieu) | Presentations |
+| 14:50 - 15:05 | Amphi 25 (Jussieu) | Coffee Break |
+| 15:05 - 16:25 | Amphi 25 (Jussieu) | Presentations |
+| 16:25 - 16:40 | Break |
+| 16:40 - 18:00 | SCAI (Jussieu) | Poster Session |
+| 18:00 - 19:00 | SCAI (Jussieu) | Cocktail |
 
 ### Day 2 : 24/11/2022
 
 
-| **Time** | **Description** |
+| **Time** | **Place** | **Description** |
 | -----| ----------- |
-| 09:00 - 09:30 | Welcome |
-| 09:30 - 10:30 | Presentations |
-| 10:30 - 11:00 | Coffee break |
-| 11:00 - 12:00 | Presentations |
-| 12:00 - 14:00 | Lunch at SCAI |
-| 14:00 - 15:30 | Poster Session |
-| 15:30 - 16:30 | Mentoring|
+| 09:00 - 09:30 | Amphi Richelieu (Sorbonne) | Welcome |
+| 09:30 - 10:30 | Amphi Richelieu (Sorbonne) | Presentations |
+| 10:30 - 11:00 | Amphi Richelieu (Sorbonne) | Coffee break |
+| 11:00 - 12:00 | Amphi Richelieu (Sorbonne) | Presentations |
+| 12:00 - 14:00 | SCAI (Jussieu) | Lunch |
+| 14:00 - 15:30 | SCAI (Jussieu) | Poster Session |
+| 15:30 - 16:30 | SCAI (Jussieu) | Mentoring|
 
 <!---
 ## Covid regulations
