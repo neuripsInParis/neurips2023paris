@@ -15,19 +15,22 @@ This event will take place in two locations:
 
 ## Registration
 
-**Registration is now closed. Authors that have accepted papers at NeurIPS2022 but forgot to register may contact the organizers**.
+Registration is now closed.
 
 ## Schedule
+
+**Detailed schedule of the presentations is available [here](https://docs.google.com/spreadsheets/d/1ww7IBYRAGV4p4mjcg1i3hpU21kEmP5pdj30N_ewnIJY/edit?usp=sharing).**
+
 ### Day 1 : 23/11/2022
 
 | **Time** | **Place** | **Description** |
 | -----| ----------- |
-| 13:00 - 13:15 | Amphi 25 (Jussieu) |  Welcome Speech |
+| 13:00 - 13:15 | Amphi 25 (Jussieu) |  Introduction Speech |
 | 13:15 - 14:40 | Amphi 25 (Jussieu) | Presentations |
 | 14:40 - 15:00 | Amphi 25 (Jussieu) | Coffee Break |
 | 15:00 - 16:20 | Amphi 25 (Jussieu) | Presentations |
-| 16:20 - 16:40 | Break |
-| 16:40 - 18:00 | SCAI (Jussieu) | Poster Session |
+| 16:20 - 16:30 | Break |
+| 16:30 - 18:00 | SCAI (Jussieu) | Poster Session |
 | 18:00 - 19:00 | SCAI (Jussieu) | Cocktail |
 
 ### Day 2 : 24/11/2022
@@ -35,7 +38,7 @@ This event will take place in two locations:
 
 | **Time** | **Place** | **Description** |
 | -----| ----------- |
-| 09:00 - 09:05 | Amphi Richelieu (Sorbonne) | Welcome |
+| 09:00 - 09:05 | Amphi Richelieu (Sorbonne) | Introduction Speech |
 | 09:05 - 10:30 | Amphi Richelieu (Sorbonne) | Presentations |
 | 10:30 - 10:50 | Amphi Richelieu (Sorbonne) | Coffee break |
 | 10:50 - 12:00 | Amphi Richelieu (Sorbonne) | Presentations |
