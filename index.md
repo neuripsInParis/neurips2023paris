@@ -22,11 +22,11 @@ This event will take place in two locations:
 
 | **Time** | **Place** | **Description** |
 | -----| ----------- |
-| 13:00 - 13:30 | Amphi 25 (Jussieu) |  Welcome |
-| 13:30 - 14:50 | Amphi 25 (Jussieu) | Presentations |
-| 14:50 - 15:05 | Amphi 25 (Jussieu) | Coffee Break |
-| 15:05 - 16:25 | Amphi 25 (Jussieu) | Presentations |
-| 16:25 - 16:40 | Break |
+| 13:00 - 13:15 | Amphi 25 (Jussieu) |  Welcome Speech |
+| 13:15 - 14:40 | Amphi 25 (Jussieu) | Presentations |
+| 14:40 - 15:00 | Amphi 25 (Jussieu) | Coffee Break |
+| 15:00 - 16:20 | Amphi 25 (Jussieu) | Presentations |
+| 16:20 - 16:40 | Break |
 | 16:40 - 18:00 | SCAI (Jussieu) | Poster Session |
 | 18:00 - 19:00 | SCAI (Jussieu) | Cocktail |
 
@@ -35,10 +35,10 @@ This event will take place in two locations:
 
 | **Time** | **Place** | **Description** |
 | -----| ----------- |
-| 09:00 - 09:30 | Amphi Richelieu (Sorbonne) | Welcome |
-| 09:30 - 10:30 | Amphi Richelieu (Sorbonne) | Presentations |
-| 10:30 - 11:00 | Amphi Richelieu (Sorbonne) | Coffee break |
-| 11:00 - 12:00 | Amphi Richelieu (Sorbonne) | Presentations |
+| 09:00 - 09:05 | Amphi Richelieu (Sorbonne) | Welcome |
+| 09:05 - 10:30 | Amphi Richelieu (Sorbonne) | Presentations |
+| 10:30 - 10:50 | Amphi Richelieu (Sorbonne) | Coffee break |
+| 10:50 - 12:00 | Amphi Richelieu (Sorbonne) | Presentations |
 | 12:00 - 14:00 | SCAI (Jussieu) | Lunch |
 | 14:00 - 15:30 | SCAI (Jussieu) | Poster Session |
 | 15:30 - 16:30 | SCAI (Jussieu) | Mentoring|
