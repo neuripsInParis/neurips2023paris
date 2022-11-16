@@ -44,7 +44,7 @@ Registration is now closed.
 | 09:05 - 10:30 | Amphi Richelieu (Sorbonne) | Presentations |
 | 10:30 - 10:50 | Amphi Richelieu (Sorbonne) | Coffee break |
 | 10:50 - 12:00 | Amphi Richelieu (Sorbonne) | Presentations |
-| 12:00 - 14:00 | SCAI (Jussieu) | Lunch |
+| 12:00 - 14:00 | SCAI (Jussieu) | Lunch (_provided_) |
 | 14:00 - 15:30 | SCAI (Jussieu) | Poster Session |
 | 15:30 - 16:30 | SCAI (Jussieu) | Mentoring|
 
