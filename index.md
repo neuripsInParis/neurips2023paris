@@ -19,7 +19,7 @@ A detailled schedule of the event will be made available soon.
 ## Organizers
 
 [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) <br>
-[Gérard Biau](https://www.lpsm.paris/pageperso/biau/) (Sorbonne Université)<br>
+[Gérard Biau](https://perso.lpsm.paris/~biau/) (Sorbonne Université)<br>
 [Liva Ralaivola](https://pageperso.lif.univ-mrs.fr/~liva.ralaivola/doku.php) (Criteo) <br>
 [Vianney Perchet](https://vianney.ai/) (Criteo) <br>
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Owkin)
