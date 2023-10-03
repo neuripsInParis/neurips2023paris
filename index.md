@@ -1,4 +1,4 @@
-<a href="https://nips.cc/">The Conference on Neural Information Processing Systems</a> (abbreviated as NeurIPS) is one of the main machine learning conference. NeurIPS@Paris 2022 is a 2-day event that takes place at Sorbonne Université on the 6 <sup>th</sup> and 7 <sup>th</sup> of December. Its primary focus is to provide a human scale environment that is conducive to exciting scientific exchanges and networking within the machine learning community. 
+<a href="https://nips.cc/">The Conference on Neural Information Processing Systems</a> (abbreviated as NeurIPS) is one of the main machine learning conference. NeurIPS@Paris 2023 is a 2-day event that takes place at Sorbonne Université on the 6 <sup>th</sup> and 7 <sup>th</sup> of December. Its primary focus is to provide a human scale environment that is conducive to exciting scientific exchanges and networking within the machine learning community. Authors of accepted papers at NeurIPS 2023 are given the opportunity to present their work through a short oral presentation and a poster session. The event will also feature mentoring sessions with renowned senior researchers from all parts of the community.  
 
 ## Venue
 
@@ -10,7 +10,7 @@ This event will take place at Campus Jussieu (4 Place Jussieu Paris 5ème - Metr
 
 ## Registration
 
-Please register by filling out this form. 
+Registration is mandatory. Please register by filling out [this form](https://forms.gle/2D1zD1bZz9n6QQ2M6). 
 
 ## Schedule
 
