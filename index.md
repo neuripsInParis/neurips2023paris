@@ -24,11 +24,11 @@ A detailled schedule of the event will be made available soon.
 [Vianney Perchet](https://vianney.ai/) (Criteo) <br>
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Owkin) <br>
 
-[Linus Bleistein](https://linusbleistein.com/) (INRIA) <br>
+<a href="linusbleistein.com"> Linus Bleistein </a> (INRIA) <br>
 [Pierre Clavier](https://pierreclavier.github.io/aboutme/) (INRIA)<br>
 [Edwige Cyffers](http://perso.ens-lyon.fr/edwige.cyffers/) (INRIA) <br>
 [Nathan Doumèche](https://nathandoumeche.com/) (Sorbonne Université, EDF) <br>
-[Adeline Fermanian](https://afermanian.github.io/) (Califrais) <br>
+<a href="https://afermanian.github.io/"> Adeline Fermanian </a> (Califrais) <br>
 [Edouard Yvinec](https://www.isir.upmc.fr/personnel/yvinec/) (Sorbonne Université)
 
 ## Sponsors
