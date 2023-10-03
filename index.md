@@ -2,7 +2,7 @@
 
 ## Venue
 
-This event will take place at Campus Jussieu (4 Place Jussieu Paris 5ème - Metro 10: Jussieu <a href="docs/assets/plan_neurips2022v2.jpg"> Map</a>) in Amphithéâtre 25 and <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> on Wednesday and Thursday afternoon </li>
+This event will take place at Campus Jussieu (4 Place Jussieu Paris 5ème - Metro 10: Jussieu <a href="docs/assets/plan_neurips2022v2.jpg"> Map</a>) in Amphithéâtre 25 and <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> on Wednesday and Thursday afternoon. 
 
 <!---
 ![map](/docs/assets/plan_neurips2022v2.jpg)
