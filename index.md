@@ -27,6 +27,7 @@ A detailled schedule of the event will be made available soon.
 [Linus Bleistein](linusbleistein.com) (INRIA)<br>
 [Pierre Clavier](https://pierreclavier.github.io/aboutme/) (INRIA)<br>
 [Edwige Cyffers](http://perso.ens-lyon.fr/edwige.cyffers/) (INRIA) <br>
+[Nathan Doumèche](https://nathandoumeche.com/) (Sorbonne Université, EDF) <br>
 [Adeline Fermanian](afermanian.github.io) (Califrais) <br>
 [Edouard Yvinec](https://www.isir.upmc.fr/personnel/yvinec/) (Sorbonne Université)
 
