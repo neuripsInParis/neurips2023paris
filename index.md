@@ -24,7 +24,7 @@ A detailled schedule of the event will be made available soon.
 [Vianney Perchet](https://vianney.ai/) (Criteo) <br>
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Owkin) <br>
 
-<a href="linusbleistein.com"> Linus Bleistein </a> (INRIA) <br>
+<a href="https://linusbleistein.com/"> Linus Bleistein </a> (INRIA) <br>
 [Pierre Clavier](https://pierreclavier.github.io/aboutme/) (INRIA)<br>
 [Edwige Cyffers](http://perso.ens-lyon.fr/edwige.cyffers/) (INRIA) <br>
 [Nathan Doumèche](https://nathandoumeche.com/) (Sorbonne Université, EDF) <br>
