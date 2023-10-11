@@ -4,7 +4,7 @@ Authors of accepted papers at NeurIPS 2023 are given the opportunity to present 
 
 ## Venue
 
-This event will take place at Campus Jussieu (4 Place Jussieu Paris 5ème - Metro 10: Jussieu <a href="docs/assets/plan_neurips2022v2.jpg"> Map</a>) in Amphithéâtre 25 and <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> on Wednesday and Thursday afternoon. 
+This event will take place at Campus Jussieu (4 Place Jussieu Paris 5ème - Metro 10: Jussieu <a href="docs/assets/plan_neurips2022v2.jpg"> Map</a>) in Amphithéâtre 25 and <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> on Wednesday afternoon and Thursday morning and afternoon. 
 
 <!---
 ![map](/docs/assets/plan_neurips2022v2.jpg)
