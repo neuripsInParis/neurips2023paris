@@ -2,7 +2,7 @@
 
 Authors of accepted papers at NeurIPS 2023 are given the opportunity to present their work through a short oral presentation and a poster session. All students and researchers are welcome. The event will also feature mentoring sessions with renowned senior researchers from all parts of the community.  
 
-Please note that this event will in person only: we will neither record presentations nor include online options. 
+Please note that this event is in person only: we will neither record presentations nor include online options. 
 
 ## Venue
 
