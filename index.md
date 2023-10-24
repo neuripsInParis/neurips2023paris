@@ -31,7 +31,6 @@ A detailled schedule of the event will be made available soon.
 [Edwige Cyffers](http://perso.ens-lyon.fr/edwige.cyffers/) (INRIA) <br>
 [Nathan Doumèche](https://nathandoumeche.com/) (Sorbonne Université, EDF) <br>
 <a href="https://afermanian.github.io/"> Adeline Fermanian </a> (Califrais) <br>
-[Edouard Yvinec](https://www.isir.upmc.fr/personnel/yvinec/) (Sorbonne Université)
 
 ## Sponsors
 
