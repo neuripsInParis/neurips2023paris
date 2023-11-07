@@ -14,7 +14,7 @@ This event will take place at Campus Jussieu (4 Place Jussieu Paris 5ème - Metr
 
 ## Registration
 
-Registration is mandatory. Please register by filling out [this form](https://forms.gle/2D1zD1bZz9n6QQ2M6) **before the 7 <sup>th</sup> of November**. 
+Registration are now closed. If you have an accepted paper at NeurIPS 2023 you wish to present and haven't had the chance to register, please reach out by email. 
 
 ## Schedule
 
