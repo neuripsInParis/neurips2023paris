@@ -18,7 +18,28 @@ Registration are now closed. We kindly ask you not to contact us for late regist
 
 ## Schedule
 
-A detailled schedule of the event will be made available soon.
+### Day 1 : 06.12.2023
+
+| **Time** | **Place** | **Description** |
+| -----| ----------- |
+| 13:00 - 13:15 | Amphi 25 (Jussieu) |  Introduction Speech |
+| 13:15 - 14:45 | Amphi 25 (Jussieu) | Presentations |
+| 14:45 - 15:15 | Amphi 25 (Jussieu) | Coffee Break |
+| 15:15 - 16:45 | Amphi 25 (Jussieu) | Presentations |
+| 16:45 - 18:00 | SCAI (Jussieu) | Poster Session |
+| 18:00 - 19:00 | SCAI (Jussieu) | Cocktail |
+
+### Day 2 : 07.12.2023
+
+| **Time** | **Place** | **Description** |
+| -----| ----------- |
+| 09:15 - 10:45 | Amphi 25 (Jussieu) | Presentations |
+| 10:45 - 11:15 | Amphi 25 (Jussieu) | Coffee break |
+| 11:15 - 11:30 | Amphi 25 (Jussieu) | WIMLDS Guest Session |
+| 11:30 - 12:45 | Amphi 25 (Jussieu) | Presentations |
+| 12:45 - 14:00 | SCAI (Jussieu) | Lunch (_provided_) |
+| 14:00 - 15:15 | SCAI (Jussieu) | Poster Session |
+| 15:15 - 16:00 | SCAI (Jussieu) | Mentoring |
 
 ## Organizers
 
@@ -36,7 +57,7 @@ A detailled schedule of the event will be made available soon.
 
 ## Sponsors
 
-Sponsors of the event will be announced soon. 
+This event is supported by Apple, Criteo, Google, G-Research and Owkin. 
 
 ## Contact
 
