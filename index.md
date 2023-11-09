@@ -39,7 +39,7 @@ Registration are now closed. We kindly ask you not to contact us for late regist
 | 11:30 - 12:45 | Amphi 25 (Jussieu) | Presentations |
 | 12:45 - 14:00 | SCAI (Jussieu) | Lunch (_provided_) |
 | 14:00 - 15:15 | SCAI (Jussieu) | Poster Session |
-| 15:15 - 16:00 | SCAI (Jussieu) | Mentoring |
+| 15:15 - 16:15 | SCAI (Jussieu) | Mentoring |
 
 ## Organizers
 
