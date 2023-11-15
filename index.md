@@ -52,7 +52,6 @@ A detailled list of papers for each session is available <a href="https://docs.g
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Owkin) <br>
 
 <a href="https://linusbleistein.com/"> Linus Bleistein </a> (INRIA) <br>
-[Pierre Clavier](https://pierreclavier.github.io/aboutme/) (INRIA)<br>
 [Edwige Cyffers](http://perso.ens-lyon.fr/edwige.cyffers/) (INRIA) <br>
 [Nathan Doumèche](https://nathandoumeche.com/) (Sorbonne Université, EDF) <br>
 <a href="https://afermanian.github.io/"> Adeline Fermanian </a> (Califrais) <br>
