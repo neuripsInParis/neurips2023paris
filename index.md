@@ -18,6 +18,8 @@ Registration are now closed. We kindly ask you not to contact us for late regist
 
 ## Schedule
 
+A detailled list of papers for each session is available <a href="https://docs.google.com/spreadsheets/d/1P2YXaZvnIpC-IPtCHzFnFlMV5IMj5CZYEmo-ImpG_5A/edit?usp=sharing">here</a>. 
+
 ### Day 1 : 06.12.2023
 
 | **Time** | **Place** | **Description** |
