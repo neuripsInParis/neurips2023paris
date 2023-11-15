@@ -23,9 +23,9 @@ Registration are now closed. We kindly ask you not to contact us for late regist
 | **Time** | **Place** | **Description** |
 | -----| ----------- |
 | 13:00 - 13:15 | Amphi 25 (Jussieu) |  Introduction Speech |
-| 13:15 - 14:45 | Amphi 25 (Jussieu) | Presentations |
+| 13:15 - 14:45 | Amphi 25 (Jussieu) | Session 1: Theoretical Deep Learning and Optimization |
 | 14:45 - 15:15 | Amphi 25 (Jussieu) | Coffee Break |
-| 15:15 - 16:45 | Amphi 25 (Jussieu) | Presentations |
+| 15:15 - 16:45 | Amphi 25 (Jussieu) | Session 2: Theoretical ML and Optimal Transport |
 | 16:45 - 18:00 | SCAI (Jussieu) | Poster Session |
 | 18:00 - 19:00 | SCAI (Jussieu) | Cocktail |
 
@@ -33,10 +33,10 @@ Registration are now closed. We kindly ask you not to contact us for late regist
 
 | **Time** | **Place** | **Description** |
 | -----| ----------- |
-| 09:15 - 10:45 | Amphi 25 (Jussieu) | Presentations |
+| 09:15 - 10:45 | Amphi 25 (Jussieu) | Session 3: Applied ML |
 | 10:45 - 11:15 | Amphi 25 (Jussieu) | Coffee break |
 | 11:15 - 11:30 | Amphi 25 (Jussieu) | WIMLDS Guest Session |
-| 11:30 - 12:45 | Amphi 25 (Jussieu) | Presentations |
+| 11:30 - 12:45 | Amphi 25 (Jussieu) | Session 4: Bandits, RL and Physics-Informed ML |
 | 12:45 - 14:00 | SCAI (Jussieu) | Lunch (_provided_) |
 | 14:00 - 15:15 | SCAI (Jussieu) | Poster Session |
 | 15:15 - 16:15 | SCAI (Jussieu) | Mentoring |
