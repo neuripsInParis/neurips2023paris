@@ -41,7 +41,7 @@ A detailled list of papers for each session is available <a href="https://docs.g
 | 11:30 - 12:45 | Amphi 25 (Jussieu) | Session 4: Bandits, RL and Physics-Informed ML |
 | 12:45 - 14:00 | SCAI (Jussieu) | Lunch (_provided_) |
 | 14:00 - 15:15 | SCAI (Jussieu) | Poster Session |
-| 15:15 - 16:15 | SCAI (Jussieu) | Mentoring |
+| 15:00 - 16:00 | SCAI (Jussieu) | Mentoring |
 
 ## Organizers
 
