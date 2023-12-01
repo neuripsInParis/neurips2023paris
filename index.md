@@ -6,7 +6,11 @@ Please note that this event is in person only: we will neither record presentati
 
 ## Venue
 
-This event will take place at Campus Jussieu (4 Place Jussieu Paris 5ème - Metro 10: Jussieu <a href="docs/assets/plan_neurips2022v2.jpg"> Map</a>) in Amphithéâtre 25 and <a href="https://scai.sorbonne-universite.fr">Sorbonne Center on Artificial Intelligence (SCAI)</a> on Wednesday afternoon and Thursday morning and afternoon. 
+This event will take place at Campus Jussieu (4, Place Jussieu Paris 5ème).
+
+To access by metro, go to station Jussieu on the line 10. 
+
+The presentations will be held in amphithéâtre 25. All social events (poster sessions, mentor and career sessions, cocktail and lunch) will be held at SCAI, which is located within Jussieu. A map of Jussieu is available <a href="docs/assets/plan_neurips2022v2.jpg"> here</a>). 
 
 <!---
 ![map](/docs/assets/plan_neurips2022v2.jpg)
